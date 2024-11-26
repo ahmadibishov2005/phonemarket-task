@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(49, 197, 106);
+    color: white;
+    padding: 20px;
+}
+.header-right{
+   font-size: x-large;
+   padding-top: 5px;
+}
+.header-right a{
+    padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+}
+/* .cards{
+    display: flex;
+    margin: 30px;
+    justify-content: space-evenly;
+} */
+
+.fav-icon button{
+    background-color: rgb(107, 212, 130);
+    border-radius: 10px;
+}
+.fav-icon i{
+    color: rgb(255, 255, 255);
+}
+.card-buttons{
+    display: flex;
+    gap: 10px;
+}
