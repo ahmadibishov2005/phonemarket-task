@@ -7,7 +7,7 @@ export async function GetAllSuppliers(url){
     .then(err=> error=err)
 
     return{
-        res,
+        response,
         error
     }
 }

@@ -14,12 +14,6 @@ header{
     text-decoration: none;
     color: aliceblue;
 }
-/* .cards{
-    display: flex;
-    margin: 30px;
-    justify-content: space-evenly;
-} */
-
 .fav-icon button{
     background-color: rgb(107, 212, 130);
     border-radius: 10px;
